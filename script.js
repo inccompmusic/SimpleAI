@@ -1,5 +1,3 @@
-const API_KEY = "AQ.Ab8RN6KTNRvchl9CVf_No5oAECq4QDkoKc_d4TWAmCzq3oi-cQ";
-
 const MODEL = "gemini-3.6-flash";
 
 const GOOGLE_CLIENT_ID = "634945721716-o2c0gg53bgebts6dh859veuv9141okad.apps.googleusercontent.com";
