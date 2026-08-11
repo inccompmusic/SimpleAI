@@ -1,4 +1,4 @@
-const API_KEY = "AQ.Ab8RN6KNQ7IJ5qgZreT762iLuSJbROPnBL7prLxy_bMOUagu6A";
+const API_KEY = "AQ.Ab8RN6KTNRvchl9CVf_No5oAECq4QDkoKc_d4TWAmCzq3oi-cQ";
 
 const MODEL = "gemini-3.6-flash";
 
